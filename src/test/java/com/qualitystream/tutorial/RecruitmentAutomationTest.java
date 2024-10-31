@@ -95,8 +95,6 @@ public class RecruitmentAutomationTest {
     }
 
     private void validateCandidateData(String candidateName, String status) {
-        // Aquí puedes agregar la lógica para validar que el candidato se haya agregado correctamente.
-        // Este método debe buscar en la tabla de candidatos para verificar la existencia del candidato creado.
-        // Este paso se puede adaptar según la estructura de la tabla en la aplicación.
+        
     }
 }
